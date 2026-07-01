@@ -4,7 +4,10 @@
 
 почта:  ryltseva.vikyla@gmail.com
 
+Коммит сделан через PyCharm
+
 Ссылка на гитлаб https://gitlab.com/vika-devops/devops-netology
+
 
 # Задание 1
 ![Git remote](https://github.com/ryltsevavikyla-coder/devops-netology1/blob/main/Screenshot%202026-07-01%20152315.png)
@@ -22,5 +25,5 @@
 
 # Задание 4
 
+![PyCharm Git](https://github.com/ryltsevavikyla-coder/devops-netology1/blob/main/Screenshot%202026-07-01%20171527.png)
 ![PyCharm Git](https://github.com/ryltsevavikyla-coder/devops-netology1/blob/main/Screenshot%202026-07-01%20162021.png)
-![PyCharm Git](https://github.com/ryltsevavikyla-coder/devops-netology1/blob/main/Screenshot%202026-07-01%20162028.png)
